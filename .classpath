@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hibernate"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/postgresJDBC"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring"/>
+	<classpathentry kind="lib" path="C:/SSK/jars/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/SSK/javax.servlet-3.1.jar" sourcepath="/Employee"/>
+	<classpathentry kind="lib" path="C:/SSK/jars/hibernatejar/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/SSK/jars/hibernate-commons-annotations-3.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/SSK/jars/postgresql-9.4.1208.jre6.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
